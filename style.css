@@ -1,0 +1,47 @@
+:root {
+    --font-color-primary: #2f3542;
+    --font-color-secondary: #57606f;
+    --background-color-primary: #ffffff;
+    --background-color-secondary: #f1f2f6;
+    --background-top-color: rgba(0, 127, 255, 0.1);
+    --background-top-height: 20rem;
+}
+
+body {
+    margin: 0;
+    user-select: none;
+    background-color: var(--background-color-secondary);
+}
+
+body::before {
+    content: "";
+    width: 100%;
+    height: var(--background-top-height);
+    position: absolute;
+    top: 0;
+    z-index: -1;
+    background: linear-gradient(180deg, var(--background-top-color) 0, transparent var(--background-top-height));
+}
+
+.wrapper {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 0 2rem;
+}
+
+.item {
+    margin-top: 1rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    background-color: var(--background-color-primary);
+}
+
+.title {
+    color: var(--font-color-primary);
+    margin: 0;
+}
+
+.description {
+    color: var(--font-color-secondary);
+    margin-top: 0.5rem;
+}
