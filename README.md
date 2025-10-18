@@ -1,5 +1,3 @@
-# LOGYTEA.github.io
-幻羽的个人网站
 <!DOCTYPE html>
 <!-- saved from url=(0021) $$$$$$ -->
 <html lang="zh-CN"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
