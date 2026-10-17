@@ -1,0 +1,3 @@
+# 构建产物逐字节原样入库。本机 core.autocrlf=true 会把 LF 转成 CRLF，
+# 对 VitePress 产物有风险。站点是构建出来的，仓库只是分发通道，一律禁转换。
+* -text
