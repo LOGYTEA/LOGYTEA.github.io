@@ -1,0 +1,14 @@
+{
+  "protocol_version": 1,
+  "plugins": [
+    {
+      "id": "hello-demo",
+      "name": "示例插件 Hello Demo",
+      "description": "最小可用插件：启动后握手并持续心跳。可作为新插件的起点模板。",
+      "version": "1.0.0",
+      "url": "https://logytea.github.io/plugins/packages/hello-demo.zip",
+      "size": 825902,
+      "author": "ZenFile"
+    }
+  ]
+}
