@@ -18,6 +18,15 @@
       "url": "https://logytea.github.io/plugins/packages/file-preview.zip",
       "size": 410,
       "author": "ZenFile"
+    },
+    {
+      "id": "terminal",
+      "name": "终端",
+      "description": "在 ZenFile 底部开一个真终端：ConPTY 伪控制台 + 自绘 VT 渲染，支持 cmd / PowerShell，可在当前目录直接打开。Ctrl+反引号 或从状态栏往上拖出面板。",
+      "version": "0.1.0",
+      "url": "https://logytea.github.io/plugins/packages/terminal.zip",
+      "size": 411,
+      "author": "ZenFile"
     }
   ]
 }
