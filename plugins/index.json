@@ -9,6 +9,15 @@
       "url": "https://logytea.github.io/plugins/packages/hello-demo.zip",
       "size": 825902,
       "author": "ZenFile"
+    },
+    {
+      "id": "file-preview",
+      "name": "文件预览",
+      "description": "在右侧预览窗格里看图片、PDF、Markdown、Office 文档与视频信息。视频可在预览格内直接播放。",
+      "version": "0.3.0",
+      "url": "https://logytea.github.io/plugins/packages/file-preview.zip",
+      "size": 410,
+      "author": "ZenFile"
     }
   ]
 }
